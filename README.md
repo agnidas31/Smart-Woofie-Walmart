@@ -1,1 +1,1 @@
-# Smart-Woofie-Walmart
+# SmartWoffie
